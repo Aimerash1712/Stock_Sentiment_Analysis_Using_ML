@@ -74,6 +74,4 @@ The project is organized into two Jupyter Notebooks:
 
 ## 👤 Author
 
-**Name:** Amey Somvanshi
-**Enrollment:** 22123043
-**Program:** EPH
+**Amey Somvanshi** IIT Roorkee
